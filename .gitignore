@@ -34,4 +34,4 @@ Servers/Pivotal tc Server Developer Edition v4.0-config/tomcat-users.xml
 Servers/Pivotal tc Server Developer Edition v4.0-config/web.xml
 /Servers/
 
-06-SB-Autowiring-Modes/.mvn/wrapper/maven-wrapper.jar
+**/.mvn/
